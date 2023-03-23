@@ -1,1 +1,1 @@
-# Feign-client-example
+# Feign-Eureka-example-Jhipster
