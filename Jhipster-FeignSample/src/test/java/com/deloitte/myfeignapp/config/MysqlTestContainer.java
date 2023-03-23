@@ -1,3 +1,4 @@
+/*
 package com.deloitte.myfeignapp.config;
 
 import java.util.Collections;
@@ -45,3 +46,4 @@ public class MysqlTestContainer implements SqlTestContainer {
         return mysqlContainer;
     }
 }
+*/
